@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("Hello World\n");
+	printf("Device is running\n");
 	printf("UART module initailized\n");
 	return 0;
 
